@@ -1,0 +1,602 @@
+{
+    "نام جديد": {
+        "name": "نام جديد",
+        "tasks": [
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "نصب Python",
+                "completed": true
+            },
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "نصب و تنظیم VS Code",
+                "completed": true
+            },
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "نصب Git",
+                "completed": true
+            },
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "اتصال Git به GitHub",
+                "completed": true
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت پوشه پروژه",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "باز کردن پروژه در VS Code",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت venv",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "فعال کردن venv",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "انتخاب Python Interpreter مربوط به venv",
+                "completed": true
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت main.py",
+                "completed": true
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت README.md",
+                "completed": true
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت .gitignore",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت requirements.txt",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "مشخص کردن هدف پروژه",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "مشخص کردن ورودی‌ها",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "مشخص کردن خروجی‌ها",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "تقسیم پروژه به بخش‌های کوچک",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "طراحی الگوریتم",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "نصب کتابخانه‌های موردنیاز",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "نوشتن کد",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "اجرای برنامه",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "تست مرحله‌به‌مرحله",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "رفع خطاها",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "تست نهایی",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "تمیز کردن کد",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "مرتب کردن فایل‌ها",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "تکمیل README.md",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "بررسی requirements.txt",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "بررسی .gitignore",
+                "completed": false
+            },
+            {
+                "category": "ساختاردهی در صورت بزرگ شدن پروژه",
+                "title": "ساخت src/",
+                "completed": false
+            },
+            {
+                "category": "ساختاردهی در صورت بزرگ شدن پروژه",
+                "title": "ساخت data/",
+                "completed": false
+            },
+            {
+                "category": "ساختاردهی در صورت بزرگ شدن پروژه",
+                "title": "ساخت tests/",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git init",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git add .",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git commit",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "ساخت Repository در GitHub",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "اتصال پروژه به GitHub",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git push",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "بررسی نهایی Repository",
+                "completed": false
+            }
+        ]
+    },
+    "نامي نو": {
+        "name": "نامي نو",
+        "tasks": [
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "نصب Python",
+                "completed": false
+            },
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "نصب و تنظیم VS Code",
+                "completed": false
+            },
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "نصب Git",
+                "completed": false
+            },
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "اتصال Git به GitHub",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت پوشه پروژه",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "باز کردن پروژه در VS Code",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت venv",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "فعال کردن venv",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "انتخاب Python Interpreter مربوط به venv",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت main.py",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت README.md",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت .gitignore",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت requirements.txt",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "مشخص کردن هدف پروژه",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "مشخص کردن ورودی‌ها",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "مشخص کردن خروجی‌ها",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "تقسیم پروژه به بخش‌های کوچک",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "طراحی الگوریتم",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "نصب کتابخانه‌های موردنیاز",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "نوشتن کد",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "اجرای برنامه",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "تست مرحله‌به‌مرحله",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "رفع خطاها",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "تست نهایی",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "تمیز کردن کد",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "مرتب کردن فایل‌ها",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "تکمیل README.md",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "بررسی requirements.txt",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "بررسی .gitignore",
+                "completed": false
+            },
+            {
+                "category": "ساختاردهی در صورت بزرگ شدن پروژه",
+                "title": "ساخت src/",
+                "completed": false
+            },
+            {
+                "category": "ساختاردهی در صورت بزرگ شدن پروژه",
+                "title": "ساخت data/",
+                "completed": false
+            },
+            {
+                "category": "ساختاردهی در صورت بزرگ شدن پروژه",
+                "title": "ساخت tests/",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git init",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git add .",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git commit",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "ساخت Repository در GitHub",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "اتصال پروژه به GitHub",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git push",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "بررسی نهایی Repository",
+                "completed": false
+            }
+        ]
+    },
+    "ايجاد": {
+        "name": "ايجاد",
+        "tasks": [
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "نصب Python",
+                "completed": false
+            },
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "نصب و تنظیم VS Code",
+                "completed": true
+            },
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "نصب Git",
+                "completed": true
+            },
+            {
+                "category": "آماده‌سازی اولیه",
+                "title": "اتصال Git به GitHub",
+                "completed": true
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت پوشه پروژه",
+                "completed": true
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "باز کردن پروژه در VS Code",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت venv",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "فعال کردن venv",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "انتخاب Python Interpreter مربوط به venv",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت main.py",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت README.md",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت .gitignore",
+                "completed": false
+            },
+            {
+                "category": "شروع پروژه",
+                "title": "ساخت requirements.txt",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "مشخص کردن هدف پروژه",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "مشخص کردن ورودی‌ها",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "مشخص کردن خروجی‌ها",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "تقسیم پروژه به بخش‌های کوچک",
+                "completed": false
+            },
+            {
+                "category": "طراحی پروژه",
+                "title": "طراحی الگوریتم",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "نصب کتابخانه‌های موردنیاز",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "نوشتن کد",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "اجرای برنامه",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "تست مرحله‌به‌مرحله",
+                "completed": false
+            },
+            {
+                "category": "پیاده‌سازی",
+                "title": "رفع خطاها",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "تست نهایی",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "تمیز کردن کد",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "مرتب کردن فایل‌ها",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "تکمیل README.md",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "بررسی requirements.txt",
+                "completed": false
+            },
+            {
+                "category": "تکمیل پروژه",
+                "title": "بررسی .gitignore",
+                "completed": false
+            },
+            {
+                "category": "ساختاردهی در صورت بزرگ شدن پروژه",
+                "title": "ساخت src/",
+                "completed": false
+            },
+            {
+                "category": "ساختاردهی در صورت بزرگ شدن پروژه",
+                "title": "ساخت data/",
+                "completed": false
+            },
+            {
+                "category": "ساختاردهی در صورت بزرگ شدن پروژه",
+                "title": "ساخت tests/",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git init",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git add .",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git commit",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "ساخت Repository در GitHub",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "اتصال پروژه به GitHub",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "git push",
+                "completed": false
+            },
+            {
+                "category": "Git و GitHub",
+                "title": "بررسی نهایی Repository",
+                "completed": false
+            }
+        ]
+    }
+}
