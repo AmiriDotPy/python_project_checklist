@@ -49,3 +49,8 @@ python_project_checklist/
 │
 └── tests/
     └── test_project_manager.py
+
+
+    ## Version
+
+v1.0.0
